@@ -29,7 +29,7 @@ comtypes==1.1.4
 configparser==3.7.4
 constantly==15.1.0
 contextvars==2.4
-cryptography==2.7
+cryptography==3.2
 cssselect==1.0.3
 cycler==0.10.0
 Cython==0.29.13
