@@ -133,7 +133,7 @@ pytz==2019.3
 pywifi==1.1.9
 pywin32==224
 pywin32-ctypes==0.2.0
-PyYAML==5.1.2
+PyYAML==5.4
 QScintilla==2.11.2
 qtgui==0.0.1
 queuelib==1.5.0
