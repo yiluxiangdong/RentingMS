@@ -47,7 +47,7 @@ Flask==1.0.3
 Flask-Login==0.4.1
 future==0.17.1
 gast==0.3.1
-gerapy==0.8.5
+gerapy==0.9.3
 google-pasta==0.1.7
 grpcio==1.23.0
 h11==0.7.0
