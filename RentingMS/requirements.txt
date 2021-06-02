@@ -175,7 +175,7 @@ typing==3.7.4
 typing-extensions==3.7.4
 tzlocal==2.0.0
 u-msgpack-python==2.5.1
-urllib3==1.22
+urllib3==1.26.5
 urwid==2.0.1
 validators==0.14.0
 virtualenv==16.5.0
