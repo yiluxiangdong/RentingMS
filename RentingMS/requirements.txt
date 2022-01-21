@@ -63,7 +63,7 @@ idna-ssl==1.1.0
 immutables==0.11
 importlib-metadata==0.23
 incremental==17.5.0
-ipython==5.1.0
+ipython==7.16.3
 isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.14.1
