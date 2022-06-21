@@ -87,7 +87,7 @@ mitmproxy==4.0.4
 more-itertools==7.2.0
 multidict==4.5.2
 ntplib==0.3.3
-numpy==1.15.2
+numpy==1.22.0
 oauthlib==3.0.1
 opencv-python==4.1.1.26
 pandas==0.25.3
