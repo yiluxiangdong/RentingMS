@@ -102,7 +102,7 @@ Pillow==6.2.1
 protobuf==3.6.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 pycurl==7.43.0.2
 PyDispatcher==2.0.5
