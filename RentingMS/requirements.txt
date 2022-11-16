@@ -187,7 +187,7 @@ Werkzeug==0.15.4
 wkhtmltopdf==0.2
 wrapcache==1.0.8
 wrapt==1.11.2
-WsgiDAV==3.0.0
+WsgiDAV==4.1.0
 wsproto==0.11.0
 xlrd==1.2.0
 xlutils==2.0.0
